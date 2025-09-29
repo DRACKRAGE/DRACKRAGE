@@ -38,7 +38,7 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/Agile-dimgrey?style=plastic">
 <img alt="Static Badge" src="https://img.shields.io/badge/Documenta%C3%A7%C3%B5es_e_Reports_de_Bugs-dimgrey?style=plastic">
 <img alt="Static Badge" src="https://img.shields.io/badge/BDD-dimgrey?style=plastic">
-[![Badge ServeRest](https://img.shields.io/badge/API-ServeRest-green)](https://github.com/ServeRest/ServeRest/)
+<img alt="static Badge" src="https://img.shields.io/badge/API-ServeRest-green">
 </p>
 
 ---
